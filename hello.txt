@@ -1,3 +1,4 @@
 "Hello, Git!" 
 "New Line Added!" 
 "Another new Line" 
+"Line 1" 
