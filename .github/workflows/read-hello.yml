@@ -3,7 +3,7 @@ name: Read Hello.txt
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   read-file:
